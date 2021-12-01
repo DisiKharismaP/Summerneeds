@@ -11002,42 +11002,42 @@ footer p {
 
 .store-cart .table-cart .btn-remove-cart {
   margin-top: 18px;
-  color: #fff;
-  background-color: #fc5e84;
+  color: #212529;
+  background-color: #FFC27A;
   border-color: transparent;
 }
 
 .store-cart .table-cart .btn-remove-cart:hover {
-  color: #fff;
-  background-color: #fb3867;
+  color: #212529;
+  background-color: #ffb054;
   border-color: rgba(0, 0, 0, 0);
 }
 
 .store-cart .table-cart .btn-remove-cart:focus, .store-cart .table-cart .btn-remove-cart.focus {
-  color: #fff;
-  background-color: #fb3867;
+  color: #212529;
+  background-color: #ffb054;
   border-color: rgba(0, 0, 0, 0);
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
-          box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(33, 37, 41, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(33, 37, 41, 0.5);
 }
 
 .store-cart .table-cart .btn-remove-cart.disabled, .store-cart .table-cart .btn-remove-cart:disabled {
-  color: #fff;
-  background-color: #fc5e84;
+  color: #212529;
+  background-color: #FFC27A;
   border-color: transparent;
 }
 
 .store-cart .table-cart .btn-remove-cart:not(:disabled):not(.disabled):active, .store-cart .table-cart .btn-remove-cart:not(:disabled):not(.disabled).active,
 .show > .store-cart .table-cart .btn-remove-cart.dropdown-toggle {
-  color: #fff;
-  background-color: #fb2c5e;
+  color: #212529;
+  background-color: #ffab47;
   border-color: rgba(0, 0, 0, 0);
 }
 
 .store-cart .table-cart .btn-remove-cart:not(:disabled):not(.disabled):active:focus, .store-cart .table-cart .btn-remove-cart:not(:disabled):not(.disabled).active:focus,
 .show > .store-cart .table-cart .btn-remove-cart.dropdown-toggle:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
-          box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(33, 37, 41, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(33, 37, 41, 0.5);
 }
 
 .page-auth .row-login {
